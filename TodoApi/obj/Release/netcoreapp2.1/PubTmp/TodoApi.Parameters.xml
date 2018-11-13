@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="TodoApiDev" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^/Users/rl42169/Projects/TodoApi/TodoApi/obj/Release/netcoreapp2\.1/PubTmp/Out/$" />
+  </parameter>
+</parameters>
